@@ -1,5 +1,5 @@
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+import { Content } from "./components/Content";
+import { SidebarRight } from "./components/SideBarRight";
 import "./App.css";
 
 function App() {
