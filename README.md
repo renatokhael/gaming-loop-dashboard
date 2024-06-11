@@ -1,6 +1,8 @@
-# React + Vite
+# Gaming Loop - Dashboard Gamer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Criei essa dashboard para uma aplicação gamer que estava desenvolvendo.
+
+<img src=".github/preview.png" width="100%" />
 
 Currently, two official plugins are available:
 
